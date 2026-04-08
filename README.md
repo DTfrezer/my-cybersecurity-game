@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# 🛡️ Cybersecurity Learning Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive and gamified web application designed to teach fundamental cybersecurity concepts through engaging missions and real-world scenarios.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🎯 Objective
 
-### `npm start`
+To make cybersecurity learning fun and accessible by using a game-based approach that helps users understand common threats and best practices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎮 Features
 
-### `npm test`
+### 🧩 Gamified Learning
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Interactive missions with guided instructions
+* Real-time feedback and hints
+* Progress-based navigation
 
-### `npm run build`
+### 🔐 Cybersecurity Modules
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Password Strength Checker
+* Phishing Detection Simulation
+* Firewall Defense Concepts
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🎨 User Experience
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Smooth animations and transitions
+* Engaging UI with interactive elements
+* Responsive design for all devices
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🧠 Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 🎞️ Framer Motion (animations)
+* 🧭 React Router DOM
+* 🔊 Sound effects & interactive UI
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📂 Project Structure
 
-## Learn More
+components/ → UI components
+pages/ → Game screens and missions
+assets/ → Images, sounds, animations
+utils/ → Helper functions
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ⚡ Key Highlights
 
-### Code Splitting
+* Built a gamified platform to simplify complex cybersecurity concepts
+* Focused on user engagement through animations and interactive flows
+* Designed modular components for scalability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🧪 Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+git clone https://github.com/DTfrezer/my-cybersecurity-game.git
+cd my-cybersecurity-game
+npm install
+npm start
+```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📸 Screenshots
 
-### Advanced Configuration
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/391f214a-394e-4eea-becd-c0a8f74f529d" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📌 Future Improvements
 
-### Deployment
+* 🧠 More advanced cybersecurity scenarios
+* 🏆 Leaderboard and scoring system
+* 🔐 User authentication
+* 🌙 Dark mode
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🙌 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Developed by **Sarthak Bhosale**
+
+---
+
+## ⭐ If you like this project
+
+Give it a star on GitHub ⭐
